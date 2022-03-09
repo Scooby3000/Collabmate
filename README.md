@@ -1,2 +1,2 @@
-# collabmate
+# Collabmate
 MingwX86
